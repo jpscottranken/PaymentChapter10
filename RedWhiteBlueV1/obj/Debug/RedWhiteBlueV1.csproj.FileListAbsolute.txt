@@ -1,0 +1,11 @@
+C:\Users\jpscott\Desktop\PaymentOptions\PaymentChapter10\RedWhiteBlueV1\bin\Debug\RedWhiteBlueV1.exe.config
+C:\Users\jpscott\Desktop\PaymentOptions\PaymentChapter10\RedWhiteBlueV1\bin\Debug\RedWhiteBlueV1.exe
+C:\Users\jpscott\Desktop\PaymentOptions\PaymentChapter10\RedWhiteBlueV1\bin\Debug\RedWhiteBlueV1.pdb
+C:\Users\jpscott\Desktop\PaymentOptions\PaymentChapter10\RedWhiteBlueV1\obj\Debug\RedWhiteBlueV1.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\PaymentOptions\PaymentChapter10\RedWhiteBlueV1\obj\Debug\RedWhiteBlueV1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpscott\Desktop\PaymentOptions\PaymentChapter10\RedWhiteBlueV1\obj\Debug\RedWhiteBlueV1.frmRWBV1.resources
+C:\Users\jpscott\Desktop\PaymentOptions\PaymentChapter10\RedWhiteBlueV1\obj\Debug\RedWhiteBlueV1.Properties.Resources.resources
+C:\Users\jpscott\Desktop\PaymentOptions\PaymentChapter10\RedWhiteBlueV1\obj\Debug\RedWhiteBlueV1.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\PaymentOptions\PaymentChapter10\RedWhiteBlueV1\obj\Debug\RedWhiteBlueV1.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\PaymentOptions\PaymentChapter10\RedWhiteBlueV1\obj\Debug\RedWhiteBlueV1.exe
+C:\Users\jpscott\Desktop\PaymentOptions\PaymentChapter10\RedWhiteBlueV1\obj\Debug\RedWhiteBlueV1.pdb
