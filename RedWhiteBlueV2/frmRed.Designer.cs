@@ -36,8 +36,9 @@
             // 
             // btnExit
             // 
+            this.btnExit.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnExit.Font = new System.Drawing.Font("Arial Narrow", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnExit.Location = new System.Drawing.Point(599, 313);
+            this.btnExit.Location = new System.Drawing.Point(597, 307);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(166, 62);
             this.btnExit.TabIndex = 11;
@@ -48,7 +49,7 @@
             // btnBlue
             // 
             this.btnBlue.Font = new System.Drawing.Font("Arial Narrow", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnBlue.Location = new System.Drawing.Point(409, 313);
+            this.btnBlue.Location = new System.Drawing.Point(407, 307);
             this.btnBlue.Name = "btnBlue";
             this.btnBlue.Size = new System.Drawing.Size(166, 62);
             this.btnBlue.TabIndex = 10;
@@ -59,7 +60,7 @@
             // btnWhite
             // 
             this.btnWhite.Font = new System.Drawing.Font("Arial Narrow", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnWhite.Location = new System.Drawing.Point(225, 313);
+            this.btnWhite.Location = new System.Drawing.Point(223, 307);
             this.btnWhite.Name = "btnWhite";
             this.btnWhite.Size = new System.Drawing.Size(166, 62);
             this.btnWhite.TabIndex = 9;
@@ -69,8 +70,9 @@
             // 
             // btnMain
             // 
+            this.btnMain.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnMain.Font = new System.Drawing.Font("Arial Narrow", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnMain.Location = new System.Drawing.Point(36, 313);
+            this.btnMain.Location = new System.Drawing.Point(34, 307);
             this.btnMain.Name = "btnMain";
             this.btnMain.Size = new System.Drawing.Size(166, 62);
             this.btnMain.TabIndex = 8;
@@ -80,16 +82,19 @@
             // 
             // frmRed
             // 
+            this.AcceptButton = this.btnMain;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Red;
+            this.CancelButton = this.btnExit;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.btnExit);
             this.Controls.Add(this.btnBlue);
             this.Controls.Add(this.btnWhite);
             this.Controls.Add(this.btnMain);
             this.Name = "frmRed";
-            this.Text = "frmRed";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Red Form";
             this.ResumeLayout(false);
 
         }

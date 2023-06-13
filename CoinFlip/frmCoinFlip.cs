@@ -14,7 +14,7 @@ namespace CoinFlip
         string[] images =
         {
             "C:/Users/jpscott/Desktop/PaymentOptions/PaymentChapter10/CoinFlip/images/heads.jpg",
-            "C:/Users/jpscott/Desktop/PaymentOptions/PaymentChapter10/CoinFlip/images/tails.jpg"
+            "C:/Users/jpscott/Desktop/PaymentOptions/PaymentChapter10/CoinFlip/images/tails.jpg"        
         };
 
         private void btnFlipCoin_Click(object sender, EventArgs e)

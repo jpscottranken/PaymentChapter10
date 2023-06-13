@@ -16,7 +16,7 @@ namespace PaymentOptions
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmPaymentOptions());
+            Application.Run(new frmCustomer());
         }
     }
 }

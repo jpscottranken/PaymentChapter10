@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedWhiteBlueV2", "RedWhiteB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinFlip", "CoinFlip\CoinFlip.csproj", "{6FADBF95-619E-4DD6-B6EF-46F7E51D31D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedWhiteBlueV3", "..\..\RedWhiteBlueV3\RedWhiteBlueV3.csproj", "{B40EDC4A-02FF-4C1C-AD60-5B3798E9EF56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{6FADBF95-619E-4DD6-B6EF-46F7E51D31D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FADBF95-619E-4DD6-B6EF-46F7E51D31D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FADBF95-619E-4DD6-B6EF-46F7E51D31D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B40EDC4A-02FF-4C1C-AD60-5B3798E9EF56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B40EDC4A-02FF-4C1C-AD60-5B3798E9EF56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B40EDC4A-02FF-4C1C-AD60-5B3798E9EF56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B40EDC4A-02FF-4C1C-AD60-5B3798E9EF56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

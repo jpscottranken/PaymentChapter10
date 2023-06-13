@@ -3,9 +3,10 @@ C:\Users\jpscott\Desktop\PaymentOptions\PaymentChapter10\PaymentOptions\bin\Debu
 C:\Users\jpscott\Desktop\PaymentOptions\PaymentChapter10\PaymentOptions\bin\Debug\PaymentOptions.pdb
 C:\Users\jpscott\Desktop\PaymentOptions\PaymentChapter10\PaymentOptions\obj\Debug\Chapter10Projects.csproj.AssemblyReference.cache
 C:\Users\jpscott\Desktop\PaymentOptions\PaymentChapter10\PaymentOptions\obj\Debug\Chapter10Projects.csproj.SuggestedBindingRedirects.cache
-C:\Users\jpscott\Desktop\PaymentOptions\PaymentChapter10\PaymentOptions\obj\Debug\PaymentOptions.frmPaymentOptions.resources
 C:\Users\jpscott\Desktop\PaymentOptions\PaymentChapter10\PaymentOptions\obj\Debug\PaymentOptions.Properties.Resources.resources
 C:\Users\jpscott\Desktop\PaymentOptions\PaymentChapter10\PaymentOptions\obj\Debug\Chapter10Projects.csproj.GenerateResource.cache
 C:\Users\jpscott\Desktop\PaymentOptions\PaymentChapter10\PaymentOptions\obj\Debug\Chapter10Projects.csproj.CoreCompileInputs.cache
 C:\Users\jpscott\Desktop\PaymentOptions\PaymentChapter10\PaymentOptions\obj\Debug\PaymentOptions.exe
 C:\Users\jpscott\Desktop\PaymentOptions\PaymentChapter10\PaymentOptions\obj\Debug\PaymentOptions.pdb
+C:\Users\jpscott\Desktop\PaymentOptions\PaymentChapter10\PaymentOptions\obj\Debug\PaymentOptions.frmPayment.resources
+C:\Users\jpscott\Desktop\PaymentOptions\PaymentChapter10\PaymentOptions\obj\Debug\PaymentOptions.frmCustomer.resources
